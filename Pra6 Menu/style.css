@@ -1,0 +1,38 @@
+	*{
+	margin: 0px;
+	padding: 0px;
+}
+#menu{
+	height:50px;
+	width: 100%;	
+	
+}
+#menu ul{
+
+	width: 100%;
+	margin-right: 5px;
+	
+	background-color:#8c3099;
+	color: white;
+	border:1px solid black;
+	transition-duration:0.8s;
+}
+#menu ul li{
+	display: inline-block;
+	font-family: 
+	list-style: none;
+	margin: 10px;
+	color: white;
+	
+	
+}
+#menu ul li a{
+	text-decoration: none;
+	margin: 10px;
+}
+
+#menu ul li:hover{
+	background-color:#42b0f4;
+	color:black;
+	border-radius: 6px;
+}

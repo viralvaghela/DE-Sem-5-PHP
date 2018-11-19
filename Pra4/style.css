@@ -1,0 +1,13 @@
+form{
+	border:1px solid;
+	height:650px;
+	width: 250px;
+	margin-left: 500px;
+	text-align: center;
+	padding: 15px;
+	font-size: 14px;
+}
+body{
+	background:radial-gradient(#f857a6,#ff5858);
+	color: white;
+}

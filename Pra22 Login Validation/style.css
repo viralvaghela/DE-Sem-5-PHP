@@ -1,0 +1,29 @@
+body
+{
+	font-family: tahoma;
+}
+form{
+	border: 1px solid black;
+	height: 200px;
+	width: 300px;
+	background: blue;
+	color: white;
+	text-align: center;
+	padding-top: 50px;
+	margin-left: 250px;
+}
+#email{
+	height: 25px;
+	margin-left: 5px;
+}
+#password{
+	height: 25px;
+	margin-left: 5px;
+}
+
+#submit{
+	background: red;
+	color: white;
+	padding: 10px;
+	font-size: 15px;
+}
